@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **WuLianN/WuLianN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 无业游民 :disappointed:
+### 渐入迷境 :cloud:
+### 真·摆摊 :loudspeaker:
+### :eye: :point_right: :star: 
