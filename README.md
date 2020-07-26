@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### 无业游民 :disappointed:
-### 渐入迷境 :cloud:
-### 真·摆摊 :loudspeaker:
-### :eye: :point_right: :star: 
+### 技术栈
+<img src="https://github.com/WuLianN/WuLianN/blob/master/images/vue.svg" width="30px" height="30px" />
+<img src="https://github.com/WuLianN/WuLianN/blob/master/images/react.svg" width="30px" height="30px" />
