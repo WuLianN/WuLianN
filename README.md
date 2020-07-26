@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### 技术栈
-<img src="https://github.com/WuLianN/WuLianN/blob/master/images/vue.svg" width="30px" height="30px" />
-<img src="https://github.com/WuLianN/WuLianN/blob/master/images/react.svg" width="30px" height="30px" />
+<div display="flex" flex-flow="row nowrap">
+  <img src="https://github.com/WuLianN/WuLianN/blob/master/images/vue.svg" width="30px" height="30px" />
+  <img src="https://github.com/WuLianN/WuLianN/blob/master/images/react.svg" width="30px" height="30px" />
+</div>
