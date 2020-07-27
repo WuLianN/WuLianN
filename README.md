@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 
 -->
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WuLianN&theme=radical&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 技术栈
 
 <div display="flex" flex-flow="row nowrap">
