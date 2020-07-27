@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### 日积月累
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WuLianN&theme=synthwave&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WuLianN&bg_color=193549&icon_color=1E90FF&text_color=87CEFA&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 技术栈
 
