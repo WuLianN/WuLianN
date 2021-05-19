@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ### 日积月累
-
-<img src="https://github-readme-stats.vercel.app/api?username=WuLianN&bg_color=193549&icon_color=1E90FF&text_color=87CEFA&show_icons=true&hide_title=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuLianN&layout=compact" />
+![https://github-readme-stats.vercel.app/api?username=WuLianN&bg_color=193549&icon_color=1E90FF&text_color=87CEFA&show_icons=true&hide_title=true](https://github-readme-stats.vercel.app/api?username=WuLianN&bg_color=193549&icon_color=1E90FF&text_color=87CEFA&show_icons=true&hide_title=true)
+![https://github-readme-stats.vercel.app/api/top-langs/?username=WuLianN&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=WuLianN&layout=compact)
 
 
 ### 技术栈
