@@ -14,15 +14,5 @@ Here are some ideas to get you started:
 
 -->
 
-### 日积月累
 ![https://github-readme-stats.vercel.app/api?username=WuLianN&bg_color=193549&icon_color=1E90FF&text_color=87CEFA&show_icons=true&hide_title=true](https://github-readme-stats.vercel.app/api?username=WuLianN&bg_color=193549&icon_color=1E90FF&text_color=87CEFA&show_icons=true&hide_title=true)
 ![https://github-readme-stats.vercel.app/api/top-langs/?username=WuLianN&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=WuLianN&layout=compact)
-
-
-### 技术栈
-
-<div display="flex" flex-flow="column nowrap">
-  <img src="https://github.com/WuLianN/WuLianN/blob/master/images/node.svg" width="30px" height="30px" />
-  <img src="https://github.com/WuLianN/WuLianN/blob/master/images/vue.svg" width="30px" height="30px" />
-  <img src="https://github.com/WuLianN/WuLianN/blob/master/images/react.svg" width="30px" height="30px" />
-</div>
